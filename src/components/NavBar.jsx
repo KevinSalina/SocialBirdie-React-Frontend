@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'react-router-dom/Link'
+import { Link } from 'react-router-dom'
 // MUI Imports
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar'
